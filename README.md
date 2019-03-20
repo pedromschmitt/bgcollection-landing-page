@@ -1,5 +1,5 @@
 # acervodejogos_landingpage
-![Netlify Status](https://api.netlify.com/api/v1/badges/3f809a7c-4ee1-4491-988d-52132df9e33d/deploy-status)(https://app.netlify.com/sites/acervodejogos/deploys
+![Netlify Status](https://api.netlify.com/api/v1/badges/3f809a7c-4ee1-4491-988d-52132df9e33d/deploy-status)
 
 Landing page for Acervo de Jogos App.
 
