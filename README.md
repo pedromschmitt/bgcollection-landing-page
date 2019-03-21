@@ -1,6 +1,6 @@
 # Board_game_rental_collection_landingpage
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3f809a7c-4ee1-4491-988d-52132df9e33d/deploy-status)](https://app.netlify.com/sites/acervodejogos/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/99d6e89c-5508-45c0-9128-b3905d603f26/deploy-status)](https://app.netlify.com/sites/ourboardgamecollection/deploys)
 
 Landing page for Acervo de Jogos App.
 
